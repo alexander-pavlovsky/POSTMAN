@@ -1,0 +1,16 @@
+{
+	"name": "Understanding data structures",
+	"description": "Ability to understand and work with data structures like arrays, objects, and   key-value pairs",
+
+	"name": "Programming languages",
+	"description": "Familiarity with programming languages like JavaScript, Python, or PHP",
+	  
+	"name": "API design and usage",
+	"description": "Ability to design and use APIs to send and receive data in JSON format",
+	  
+	"name": "JSON schema validation",
+	"description": "Understanding of how to validate JSON data against a defined schema",
+	  
+	"name": "Debugging",
+	"description": "Ability to debug and troubleshoot JSON-related issues"
+}
