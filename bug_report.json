@@ -1,1 +1,30 @@
 
+{
+  "timestamp": "2023-03-14T09:12:45.000Z",
+  "product": "Chat App",
+  "version": "2.0.1",
+  "platform": "Android",
+  "severity": "High",
+  "description": "When I try to send a message containing emojis, the app crashes and shuts down.",
+  "steps_to_reproduce": [
+    "Open the chat window",
+    "Type a message containing emojis",
+    "Press the send button"
+  ],
+  "expected_result": "The message should be sent and displayed correctly",
+  "actual_result": "The app crashes and shuts down",
+  "screenshots": [
+    "https://example.com/screenshots/bug_report_1.png",
+    "https://example.com/screenshots/bug_report_2.png"
+  ],
+  "logs": [
+    {
+      "timestamp": "2023-03-14T09:12:45.000Z",
+      "message": "App crashed while trying to send message"
+    },
+    {
+      "timestamp": "2023-03-14T09:13:02.000Z",
+      "message": "Exception: java.lang.NullPointerException"
+    }
+  ]
+}
